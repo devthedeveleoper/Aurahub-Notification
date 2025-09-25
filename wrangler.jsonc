@@ -10,7 +10,15 @@
         "class_name": "NotificationHub"
       }
     ]
-  }
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_classes": [
+        "NotificationHub"
+      ]
+    }
+  ]
   // "compatibility_flags": [
   //   "nodejs_compat"
   // ],
